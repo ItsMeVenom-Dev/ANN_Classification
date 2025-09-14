@@ -43,7 +43,7 @@ The workflow includes:
 ![Churn Prediction Webapp](screenshots/appImage1.png)  
 
 ### 
-![Churn Prediction Webapp](screenshots/tensorboard_loss.png)  
+![Churn Prediction Webapp](screenshots/app.Image2.png)  
 
 
 ---
