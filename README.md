@@ -22,7 +22,9 @@ The workflow includes:
 ---
 
 ## 📂 Project Structure  
-
+├── screenshots
+│   ├── tensorboard_accuracy.png
+│   └── tensorboard_loss.png
 ├── experiment.ipynb # Data preprocessing & ANN model training
 ├── prediction.ipynb # Loading model & testing predictions
 ├── app.py # Web app for user input & prediction
@@ -35,6 +37,13 @@ The workflow includes:
 
 
 
+## 📸 Screenshots  
+
+### Churn Prediction Webapp  
+![Churn Prediction Webapp](screenshots/appImage1.png)  
+
+### 
+![Churn Prediction Webapp](screenshots/tensorboard_loss.png)  
 
 
 ---
